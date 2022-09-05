@@ -1,3 +1,4 @@
-### Made with ♥
+### I'm mast1ff :)
 
-[![Mast1ff's GitHub stats](https://github-readme-stats.vercel.app/api?username=mast1ff)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mast1ff&hide=html,css)
+![mast1ff's GitHub stats](https://github-readme-stats.vercel.app/api?username=mast1ff&show_icons=true&count_privatge=true&line_height=40)
